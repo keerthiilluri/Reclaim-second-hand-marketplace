@@ -16,7 +16,7 @@ import SellPage from './pages/SellPage';
 import EditProductPage from './pages/EditProductPage';
 import DashboardPage from './pages/DashboardPage';
 import WishlistPage from './pages/WishlistPage';
-import NotFoundPage from './pages/NotFoundPage';
+
 
 export default function App() {
   return (
