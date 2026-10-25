@@ -68,8 +68,6 @@ export default function App() {
                   }
                 />
 
-                {/* 404 Route */}
-                <Route path="*" element={<NotFoundPage />} />
               </Routes>
             </main>
             <Footer />
