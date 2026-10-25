@@ -41,7 +41,7 @@ jobs:
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
-        with:
+        with: github_pages
           path: client/dist
 
   deploy:
